@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "shopping list desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsiewert/shoppinglist.git"
+  },
+  "author": "William Siewert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wsiewert/shoppinglist/issues"
+  },
+  "homepage": "https://github.com/wsiewert/shoppinglist#readme",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
